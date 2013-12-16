@@ -19,8 +19,8 @@ $config['protocol'] = 'smtp';
 $config['smtp_host'] = 'ssl://smtp.googlemail.com'; 
 $config['smtp_port'] = '465';
 $config['smtp_timeout'] = '30';
-$config['smtp_user'] = 'googleuser';
-$config['smtp_pass'] = 'googlepassword';
+$config['smtp_user'] = 'yansyaf';
+$config['smtp_pass'] = 'muhammad040685~~';
 $config['charset'] = 'utf-8';
 $config['newline'] = "\r\n";
 
